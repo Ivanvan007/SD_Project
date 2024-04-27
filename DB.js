@@ -44,3 +44,5 @@ class SimpleKeyValueDB
     }
     
 }
+
+module.exports = DB;
